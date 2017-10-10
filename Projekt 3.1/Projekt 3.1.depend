@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1507572628 source:c:\users\u¿ytkownik\desktop\kursy\c++\zelentcppobiektowe1\projekt 3.1\event.cpp
+	<iostream>
+	"event.h"
+
+1507572628 c:\users\u¿ytkownik\desktop\kursy\c++\zelentcppobiektowe1\projekt 3.1\event.h
+	<iostream>
+
+1507572645 source:c:\users\u¿ytkownik\desktop\kursy\c++\zelentcppobiektowe1\projekt 3.1\main.cpp
+	<iostream>
+	"event.h"
+

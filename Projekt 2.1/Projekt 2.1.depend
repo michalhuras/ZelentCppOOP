@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1507559531 source:c:\users\u¿ytkownik\desktop\kursy\c++\zelentcppobiektowe1\projekt 2.1\main.cpp
+	<iostream>
+	"pytanie.h"
+
+1507559415 source:c:\users\u¿ytkownik\desktop\kursy\c++\zelentcppobiektowe1\projekt 2.1\pytanie.cpp
+	<iostream>
+	"pytanie.h"
+	<fstream>
+	<cstdlib>
+
+1507559388 c:\users\u¿ytkownik\desktop\kursy\c++\zelentcppobiektowe1\projekt 2.1\pytanie.h
+	<iostream>
+
