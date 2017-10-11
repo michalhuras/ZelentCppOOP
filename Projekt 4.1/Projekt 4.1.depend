@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1507645297 source:c:\users\u¿ytkownik\desktop\kursy\c++\zelentcppobiektowe1\projekt 4.1\main.cpp
+	<iostream>
+	"przyjaciele.h"
+
+1397049424 c:\users\u¿ytkownik\desktop\kursy\c++\zelentcppobiektowe1\projekt 4.1\przyjaciele.h
+	<iostream>
+
+1397049388 source:c:\users\u¿ytkownik\desktop\kursy\c++\zelentcppobiektowe1\projekt 4.1\przyjaciele.cpp
+	<iostream>
+	"przyjaciele.h"
+

@@ -14,7 +14,6 @@ public:
    void wczytaj();
 
    friend void sedzia (Punkt &pkt, Prostokat &p);
-
 };
 
 class Prostokat
